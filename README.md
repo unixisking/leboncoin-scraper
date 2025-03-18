@@ -31,8 +31,7 @@ npm install
 LBC_USERNAME=your_email@example.com
 LBC_PASSWORD=your_password
 ```
-
-3. Create a `.env` file in the root directory with your LeBonCoin credentials
+4. Run the project
 ```bash
 npm run start
 ```
